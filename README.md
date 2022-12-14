@@ -15,3 +15,7 @@
 
 ### Netology certificates
 * [Professional work with python](https://netology.ru/sharing/50052f991daf8d1ae3f659fbf37526a9?utm_source=social&utm_campaign=achievements)
+* [ Django: Creation of functional web applications](https://netology.ru/sharing/50052f991daf8d1ae3f659fbf37526a9?utm_source=social&utm_campaign=achievements)
+* [Database for python developers](https://netology.ru/sharing/c89282034c490d6737cfdce86d37bfcc?utm_source=social&utm_campaign=achievements)
+* [Python in web development](https://netology.ru/sharing/9604a36db2bb49cb008c515883da1a03?utm_source=social&utm_campaign=achievements)
+* [GIT](https://drive.google.com/file/d/1jM7EJyJozrrZflei3dqyC6RY2434ogNW/view?usp=share_link)
