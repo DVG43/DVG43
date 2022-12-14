@@ -1,4 +1,4 @@
-# Hi there, I'm [Dmitrii Galuta](https://daniilshat.ru/) 
+# Hi there, I'm [Dmitrii Galuta](https://taplink.cc/dmitrii43) 
 ## Python developer, 
 ### That's what I can
 * Here is my Graduate work, Django web application.[You can get acquainted here](https://github.com/DVG43/My_diplom_project) 
