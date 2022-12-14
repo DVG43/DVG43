@@ -11,3 +11,7 @@
    > example 4 [here](https://github.com/DVG43/HW_ORM_dgango-),
    > example 5 [here](https://github.com/DVG43/HW_django_migration)
 * Here I implemented a chat bot for VK [You can get acquainted here](https://github.com/DVG43/CW_Bot_for_VK)
+* Here I worked with docker [example 1](https://github.com/DVG43/hw_docker_1)and [example 2](https://github.com/DVG43/HW_6_DRF_stokc)
+
+### Netology certificates
+* [Professional work with python](https://netology.ru/sharing/50052f991daf8d1ae3f659fbf37526a9?utm_source=social&utm_campaign=achievements)
