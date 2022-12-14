@@ -8,4 +8,6 @@
    > example 1 [here](https://github.com/DVG43/DVG_43_HW_7_django_permitions),
    > example 2 [here](https://github.com/DVG43/HW_5_DRF1),
    > example 3 [here](https://github.com/DVG43/HW_django_m2m),
-   > example 3 [here](https://github.com/DVG43/HW_ORM_dgango-),
+   > example 4 [here](https://github.com/DVG43/HW_ORM_dgango-),
+   > example 5 [here](https://github.com/DVG43/HW_django_migration)
+* Here I implemented a chat bot for VK [You can get acquainted here](https://github.com/DVG43/CW_Bot_for_VK)
