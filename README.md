@@ -19,3 +19,6 @@
 * [Database for python developers](https://netology.ru/sharing/c89282034c490d6737cfdce86d37bfcc?utm_source=social&utm_campaign=achievements)
 * [Python in web development](https://netology.ru/sharing/9604a36db2bb49cb008c515883da1a03?utm_source=social&utm_campaign=achievements)
 * [GIT](https://drive.google.com/file/d/1jM7EJyJozrrZflei3dqyC6RY2434ogNW/view?usp=share_link)
+
+### My CV
+* [In Russian](https://docs.google.com/document/d/15zjwmfyBb7NW5gcwc2b-XUvCWKXJwRa6mxAPqTzcGMg/edit?usp=share_link)
