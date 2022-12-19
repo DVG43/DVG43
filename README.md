@@ -14,6 +14,7 @@
 * Here I worked with docker [example 1](https://github.com/DVG43/hw_docker_1)and [example 2](https://github.com/DVG43/HW_6_DRF_stokc)
 
 ### Netology certificates
+* [General certificate of completion of the retraining course](https://drive.google.com/file/d/1gjlO0-n9Eqemw7hoFoXyQG88AXSFUmN9/view?usp=share_link)
 * [Professional work with python](https://netology.ru/sharing/50052f991daf8d1ae3f659fbf37526a9?utm_source=social&utm_campaign=achievements)
 * [ Django: Creation of functional web applications](https://netology.ru/sharing/50052f991daf8d1ae3f659fbf37526a9?utm_source=social&utm_campaign=achievements)
 * [Database for python developers](https://netology.ru/sharing/c89282034c490d6737cfdce86d37bfcc?utm_source=social&utm_campaign=achievements)
